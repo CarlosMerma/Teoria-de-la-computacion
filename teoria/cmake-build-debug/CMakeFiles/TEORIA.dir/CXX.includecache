@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Familiar/CLionProjects/workspace/teoria/src/ejercicio.h
+
+C:/Users/Familiar/CLionProjects/workspace/teoria/src/main.cpp
+tipos.h
+C:/Users/Familiar/CLionProjects/workspace/teoria/src/tipos.h
+ejercicio.h
+C:/Users/Familiar/CLionProjects/workspace/teoria/src/ejercicio.h
+
+C:/Users/Familiar/CLionProjects/workspace/teoria/src/tipos.h
+iostream
+-
+string
+-
+iomanip
+-
+queue
+-
+

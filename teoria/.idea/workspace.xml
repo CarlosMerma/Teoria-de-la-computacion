@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="teoria" targetName="teoria" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08b0fb2e-0929-40e4-b6b8-f597865b5b84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dnHEe7LOf8Z7zebqIYzAygN3cU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unid9" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="teoria" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="teoria" TARGET_NAME="teoria" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="teoria" RUN_TARGET_NAME="teoria">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08b0fb2e-0929-40e4-b6b8-f597865b5b84" name="Default Changelist" comment="" />
+      <created>1593053826880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593053826880</updated>
+      <workItem from="1593053829167" duration="275000" />
+      <workItem from="1593054146235" duration="42000" />
+      <workItem from="1593054199956" duration="1707000" />
+      <workItem from="1593104091180" duration="2015000" />
+      <workItem from="1593108464599" duration="4133000" />
+      <workItem from="1593126091798" duration="2678000" />
+      <workItem from="1593185391375" duration="2046000" />
+      <workItem from="1593187476603" duration="4732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593055736979">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1593055736979" />
+    <state x="500" y="188" key="FileChooserDialogImpl" timestamp="1593185400021">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="188" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1593185400021" />
+    <state width="1394" height="214" key="GridCell.Tab.0.bottom" timestamp="1593204589806">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1394" height="214" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1593204589806" />
+    <state width="1394" height="214" key="GridCell.Tab.0.center" timestamp="1593204589805">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1394" height="214" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1593204589805" />
+    <state width="1394" height="214" key="GridCell.Tab.0.left" timestamp="1593204589805">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1394" height="214" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1593204589805" />
+    <state width="1394" height="214" key="GridCell.Tab.0.right" timestamp="1593204589806">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1394" height="214" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1593204589806" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1593108092394">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1593108092394" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1593108092394">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1593108092394" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1593108092394">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1593108092394" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1593108092394">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1593108092394" />
+    <state x="427" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1593187477457">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="257" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1593187477457" />
+  </component>
+</project>

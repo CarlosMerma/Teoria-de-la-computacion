@@ -6,15 +6,33 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Familiar/CLionProjects/workspace/teoria/src/ejercicio.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/arbol/arbol.h
 
-C:/Users/Familiar/CLionProjects/workspace/teoria/src/main.cpp
-tipos.h
-C:/Users/Familiar/CLionProjects/workspace/teoria/src/tipos.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/ejercicio.cpp
 ejercicio.h
-C:/Users/Familiar/CLionProjects/workspace/teoria/src/ejercicio.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/ejercicio.h
+funciones.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/funciones.h
 
-C:/Users/Familiar/CLionProjects/workspace/teoria/src/tipos.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/ejercicio.h
+
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/funciones.cpp
+funciones.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/funciones.h
+
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/funciones.h
+tipos.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/tipos.h
+arbol/arbol.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/arbol/arbol.h
+
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/main.cpp
+tipos.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/tipos.h
+ejercicio.h
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/ejercicio.h
+
+C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/tipos.h
 iostream
 -
 string

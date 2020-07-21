@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Familiar/CLionProjects/workspace/teoria
+# Install script for directory: C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/TEORIA")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/teoria")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Familiar/CLionProjects/workspace/teoria/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

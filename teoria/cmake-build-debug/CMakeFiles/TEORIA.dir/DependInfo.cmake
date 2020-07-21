@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Familiar/CLionProjects/workspace/teoria/src/ejercicio.cpp" "C:/Users/Familiar/CLionProjects/workspace/teoria/cmake-build-debug/CMakeFiles/TEORIA.dir/src/ejercicio.cpp.obj"
-  "C:/Users/Familiar/CLionProjects/workspace/teoria/src/funciones.cpp" "C:/Users/Familiar/CLionProjects/workspace/teoria/cmake-build-debug/CMakeFiles/TEORIA.dir/src/funciones.cpp.obj"
-  "C:/Users/Familiar/CLionProjects/workspace/teoria/src/main.cpp" "C:/Users/Familiar/CLionProjects/workspace/teoria/cmake-build-debug/CMakeFiles/TEORIA.dir/src/main.cpp.obj"
+  "C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/ejercicio.cpp" "C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/cmake-build-debug/CMakeFiles/teoria.dir/src/ejercicio.cpp.obj"
+  "C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/funciones.cpp" "C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/cmake-build-debug/CMakeFiles/teoria.dir/src/funciones.cpp.obj"
+  "C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/src/main.cpp" "C:/Users/tonym/Documents/GitHub/Teoria-de-la-computacion/teoria/cmake-build-debug/CMakeFiles/teoria.dir/src/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -154,7 +154,7 @@ int main(){
         if (matrix[0][str.length() - 1].find(start[i]) <= matrix[0][str.length() - 1].length()) {// Comprueba si el último elemento de la primera fila contiene una variable de Inicio
             cout << "Cadena generado. " << endl;
             cout << endl;
-            dibujar_arbol();
+            //dibujar_arbol();
             return 0;
         }
     }
